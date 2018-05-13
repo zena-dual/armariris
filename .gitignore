@@ -1,0 +1,6 @@
+bin
+include
+lib
+.Python
+res/.vagrant
+src/*/__pycache__
